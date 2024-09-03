@@ -3,7 +3,7 @@ h1 {
   font-family:arial;
 }
 button {
-  background-color: #467e82;
+  background-color: #ff4017;
   border: none;
   color: black;
   padding: 20px;
@@ -14,4 +14,3 @@ button {
   font-size: 16px;
   margin: 4px 2px;
 }
-button {border-radius: 16px;}
